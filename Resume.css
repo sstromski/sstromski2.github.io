@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.steve1 {
+text-align: left;	
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+color: navy;
+font-size: 30px;
+background: skyblue;
+}
+hr{height:10px;}
+.education{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: ghostwhite;
+	text-align: left;
+	font-size: 12pt;
+	
+}
+.software{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: ghostwhite;
+	text-align: left;
+	font-size: 12pt;
+}
+.job{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: ghostwhite;
+	text-align: left;
+	font-size: 12pt;
+	
+}
+.other{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: ghostwhite;
+	text-align: left;
+	font-size: 12pt;
+}
+
+.contact{
+	font-size: 15pt;
+	font-kerning: 90px;
+	color:ghostwhite;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
